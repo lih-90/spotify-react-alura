@@ -25,7 +25,7 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias principais:
 Para visualizar e testar qualquer um dos projetos, siga os passos abaixo:
 
 ```bash
-  git clone http://github.com/lih-90/spotify-alura
+  git clone https://github.com/lih-90/spotify-react-alura
 ```
 
 Instale as dependências
